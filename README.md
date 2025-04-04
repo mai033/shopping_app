@@ -14,7 +14,7 @@ This is a simple shopping desktop application built with a Flask backend and a T
 - Python 3.x  
 - Flask  
 - Requests  
-- Tkinter (usually comes with Python)  
+- Tkinter
 
 ## Setup Instructions
 
